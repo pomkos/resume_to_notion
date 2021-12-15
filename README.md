@@ -17,12 +17,12 @@ Solution: this script that extracts the company name, job title, job posting lin
 
 ## Step 2.1
 
-<img src = "https://github.com/pomkos/resume_to_notion/blob/main/Screen%20Shot%202021-12-14%20at%2019.32.38.png?raw=true" width=310 >
+<img src = "https://github.com/pomkos/resume_to_notion/blob/main/Screen%20Shot%202021-12-14%20at%2019.32.38.png?raw=true" width=420 >
 
 ## Step 2.2
 
-<img src = "https://github.com/pomkos/resume_to_notion/blob/main/Screen%20Shot%202021-12-14%20at%2019.22.23.png?raw=true" width=310>
+<img src = "https://github.com/pomkos/resume_to_notion/blob/main/Screen%20Shot%202021-12-14%20at%2019.22.23.png?raw=true" width=420>
 
 ## Step 2.3
 
-<img src = "https://github.com/pomkos/resume_to_notion/blob/main/Screen%20Shot%202021-12-14%20at%2019.22.45.png?raw=true" width=310>
+<img src = "https://github.com/pomkos/resume_to_notion/blob/main/Screen%20Shot%202021-12-14%20at%2019.22.45.png?raw=true" width=420>
