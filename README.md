@@ -1,6 +1,6 @@
 # Background
 
-I used to resume.io to create my resume, and it was also where I kept track of my job applications. This became a bit problematic since the board can't be shared.
+I used resume.io to create my resume, and it was also where I kept track of my job applications. This became a bit problematic since the board can't be shared.
 
 Solution: this script that extracts the company name, job title, job posting link, and date. The resulting dataset can be saved as a CSV and later imported to Notion. Notion will automatically display it as a table, but the view can be changed to a Kablan board just like in Trello or resume.io.
 
